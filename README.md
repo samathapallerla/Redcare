@@ -102,16 +102,8 @@ All configuration lives in `src/main/resources/application.yml`.
 ```yaml
 github:
   base-url: https://api.github.com
-  token: ${GITHUB_TOKEN:}        # optional — set to avoid the 60 req/hour unauthenticated limit
 ```
 
-### GitHub token (recommended)
-
-Without a token, GitHub enforces a 60 requests/hour rate limit. To increase this to 5,000/hour, create a [personal access token](https://github.com/settings/tokens) (no scopes needed for public repo search) and pass it:
-
-```bash
-GITHUB_TOKEN=ghp_xxx mvn spring-boot:run
-```
 
 ### Circuit breaker
 
