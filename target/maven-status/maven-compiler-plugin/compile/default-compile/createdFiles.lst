@@ -1,0 +1,14 @@
+com/github/reposcore/service/GithubSearchService.class
+com/github/reposcore/client/GithubClientImpl.class
+com/github/reposcore/controller/RepositoryController.class
+com/github/reposcore/service/ScoringService.class
+com/github/reposcore/client/GithubClient$SearchResponse.class
+com/github/reposcore/dto/SearchCriteria.class
+com/github/reposcore/client/GithubClient.class
+com/github/reposcore/dto/SearchResult$ScoredRepository.class
+com/github/reposcore/dto/SearchResult$Failure.class
+com/github/reposcore/client/GithubClient$GitRepository.class
+com/github/reposcore/dto/SearchResult.class
+com/github/reposcore/exception/GlobalExceptionHandler.class
+com/github/reposcore/RepoScoreApplication.class
+com/github/reposcore/exception/GithubApiException.class

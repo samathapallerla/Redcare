@@ -1,0 +1,10 @@
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/RepoScoreApplication.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/client/GithubClient.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/client/GithubClientImpl.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/controller/RepositoryController.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/dto/SearchCriteria.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/dto/SearchResult.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/exception/GithubApiException.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/exception/GlobalExceptionHandler.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/service/GithubSearchService.java
+/Users/sahishnubollam/Redcare/src/main/java/com/github/reposcore/service/ScoringService.java
